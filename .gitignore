@@ -1,13 +1,22 @@
-# Ignorar la carpeta de configuración de Visual Studio
+# Ignorar carpetas de configuración de Visual Studio
 .vs/
-
-# Ignorar archivos temporales de Visual Studio
-*.user
-*.suo
-*.cache
-*.pdb
-*.obj
-
-# Ignorar las carpetas de bin y obj si estás usando .NET
+Debug/
+Release/
 bin/
 obj/
+
+# Ignorar archivos específicos de configuración del proyecto
+*.user
+*.suo
+*.vcxproj.user
+
+# Ignorar archivos de compilación
+*.exe
+*.dll
+*.pdb
+*.log
+
+# Ignorar archivos temporales del sistema
+*.tmp
+*.temp
+*.cache
