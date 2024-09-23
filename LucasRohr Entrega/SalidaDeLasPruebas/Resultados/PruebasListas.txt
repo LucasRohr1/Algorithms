@@ -1,0 +1,377 @@
+----------------------------------------------
+Prueba Invertir Parcial 1 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 2 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 3 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 4 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 5 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 6 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 7 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 8 -> OK
+----------------------------------------------
+Prueba Invertir Parcial 9 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaInvertirParcial                              PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 1 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 2 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 3 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 4 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 5 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 6 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 7 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 8 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 9 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 10 -> OK
+----------------------------------------------
+Prueba Eliminar n-esimo desde el final 11 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaEliminarNesimoDesdeElFinal                   PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 1 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 2 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 3 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 4 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 5 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 6 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 7 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 8 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 9 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 10 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 11 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 12 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 13 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 14 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 15 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 16 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 17 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 18 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Insertion Sort 19 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaListaOrdenadaInsertionSort                   PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 1 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 2 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 3 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 4 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 5 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 6 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 7 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 8 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 9 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 10 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 11 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 12 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 13 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 14 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 15 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 16 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 17 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 18 -> OK
+----------------------------------------------
+Prueba Lista Ordenada Selection Sort 19 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaListaOrdenadaSelectionSort                   PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba intercalar dos listas 1 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 2 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 3 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 4 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 5 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 6 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 7 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 8 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 9 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 10 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 11 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaIntercalarIter                               PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba intercalar dos listas 1 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 2 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 3 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 4 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 5 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 6 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 7 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 8 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 9 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 10 -> OK
+----------------------------------------------
+Prueba intercalar dos listas 11 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaIntercalarRec                                PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 1 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 2 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 3 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 4 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 5 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 6 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 7 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 8 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 9 -> OK
+----------------------------------------------
+Prueba Insertar Comienzo y Fin 10 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaInsComFin                                    PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba EXOR 1 -> OK
+----------------------------------------------
+Prueba EXOR 2 -> OK
+----------------------------------------------
+Prueba EXOR 3 -> OK
+----------------------------------------------
+Prueba EXOR 4 -> OK
+----------------------------------------------
+Prueba EXOR 5 -> OK
+----------------------------------------------
+Prueba EXOR 6 -> OK
+----------------------------------------------
+Prueba EXOR 7 -> OK
+----------------------------------------------
+Prueba EXOR 8 -> OK
+----------------------------------------------
+Prueba EXOR 9 -> OK
+----------------------------------------------
+Prueba EXOR 10 -> OK
+----------------------------------------------
+Prueba EXOR 11 -> ERROR salida incorrecta
+	Parametros de entrada: (-1,1,2,5,5), (2,3,3,5,5,5,7,7)
+	Se esperaba: (-1,1,3,7)
+	Se recibio:  (-1,1,3)
+----------------------------------------------
+Prueba EXOR 12 -> OK
+----------------------------------------------
+Prueba EXOR 13 -> OK
+----------------------------------------------
+Prueba EXOR 14 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaEXOR                                         HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 1 -> ERROR salida incorrecta
+	Parametros de entrada: (100,100,200,200,300,300,400,400)
+	Se esperaba: ()
+	Se recibio:  (100,100,200,200,300,300,400,400)
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 2 -> OK
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 3 -> ERROR salida incorrecta
+	Parametros de entrada: (-1,0,1,1,1,1,5,5,5,5,5)
+	Se esperaba: (-1,0)
+	Se recibio:  (-1,0,1,1,1,1,5,5,5,5,5)
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 4 -> ERROR salida incorrecta
+	Parametros de entrada: (-5,-5,-4,0,2,3,5,6,7,9,10,15,50,65,78,150)
+	Se esperaba: (-4,0,2,3,5,6,7,9,10,15,50,65,78,150)
+	Se recibio:  (-5,-5,-4,0,2,3,5,6,7,9,10,15,50,65,78,150)
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 5 -> ERROR salida incorrecta
+	Parametros de entrada: (0,1,2,2,3,3,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7,8,8,8,8,9,10)
+	Se esperaba: (0,1,9,10)
+	Se recibio:  (0,1,2,2,3,3,4,4,4,5,5,5,5,6,6,6,6,7,7,7,7,8,8,8,8,9,10)
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 6 -> ERROR salida incorrecta
+	Parametros de entrada: (0,0,0,1,1,1)
+	Se esperaba: ()
+	Se recibio:  (0,0,0,1,1,1)
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 7 -> ERROR salida incorrecta
+	Parametros de entrada: (1,1,2,2,2,3,3,3,3,5)
+	Se esperaba: (5)
+	Se recibio:  (1,1,2,2,2,3,3,3,3,5)
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 8 -> OK
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 9 -> OK
+----------------------------------------------
+Prueba Eliminar Duplicados Lista Ordenados 2 10 -> ERROR salida incorrecta
+	Parametros de entrada: (0,1,1,2,2,2,3,3,3,3,4,4,4,4,4)
+	Se esperaba: (0)
+	Se recibio:  (0,1,1,2,2,2,3,3,3,3,4,4,4,4,4)
+----------------------------------------------
+PRUEBAS FUNCION PruebaEliminarDuplicadosListaOrdenadaDos           HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba palindromo de listas 1 -> OK
+----------------------------------------------
+Prueba palindromo de listas 2 -> OK
+----------------------------------------------
+Prueba palindromo de listas 3 -> OK
+----------------------------------------------
+Prueba palindromo de listas 4 -> OK
+----------------------------------------------
+Prueba palindromo de listas 5 -> OK
+----------------------------------------------
+Prueba palindromo de listas 6 -> OK
+----------------------------------------------
+Prueba palindromo de listas 7 -> OK
+----------------------------------------------
+Prueba palindromo de listas 8 -> OK
+----------------------------------------------
+Prueba palindromo de listas 9 -> OK
+----------------------------------------------
+Prueba palindromo de listas 10 -> OK
+----------------------------------------------
+Prueba palindromo de listas 11 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaPalindromo                                   PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba eliminar secuencia de listas 1 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 2 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 3 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 4 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 5 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 6 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 7 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 8 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 9 -> OK
+----------------------------------------------
+Prueba eliminar secuencia de listas 10 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaEliminarSecuencia                            PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba mover nodo de listas 1 -> ERROR salida incorrecta
+	Parametros de entrada: (1,2,3,4,5,6,7,8,9,0), 1, 2
+	Se esperaba: {2,1,3,4,5,6,7,8,9,0}
+	Se recibio:  {1,2,3,4,5,6,7,8,9,0}
+----------------------------------------------
+Prueba mover nodo de listas 2 -> ERROR salida incorrecta
+	Parametros de entrada: (1,2,3,4,5,6,7,8,9,0), 1, 5
+	Se esperaba: {2,3,4,5,1,6,7,8,9,0}
+	Se recibio:  {1,2,3,4,5,6,7,8,9,0}
+----------------------------------------------
+Prueba mover nodo de listas 3 -> ERROR salida incorrecta
+	Parametros de entrada: (1,2,3,4,5,6,7,8,9,0), 5, 1
+	Se esperaba: {5,1,2,3,4,6,7,8,9,0}
+	Se recibio:  {1,2,3,4,5,6,7,8,9,0}
+----------------------------------------------
+Prueba mover nodo de listas 4 -> OK
+----------------------------------------------
+Prueba mover nodo de listas 5 -> OK
+----------------------------------------------
+Prueba mover nodo de listas 6 -> ERROR salida incorrecta
+	Parametros de entrada: (1,2,3,4,5,6,7,8,9,0), 3, 7
+	Se esperaba: {1,2,4,5,6,7,3,8,9,0}
+	Se recibio:  {1,2,3,4,5,6,7,8,9,0}
+----------------------------------------------
+Prueba mover nodo de listas 7 -> ERROR salida incorrecta
+	Parametros de entrada: (1,2,3,4,5,6,7,8,9,0), 7, 3
+	Se esperaba: {1,2,7,3,4,5,6,8,9,0}
+	Se recibio:  {1,2,3,4,5,6,7,8,9,0}
+----------------------------------------------
+Prueba mover nodo de listas 8 -> OK
+----------------------------------------------
+Prueba mover nodo de listas 9 -> ERROR salida incorrecta
+	Parametros de entrada: (1,2,3,4,5,6,7,8,9,0), 10, 9
+	Se esperaba: {1,2,3,4,5,6,7,8,0,9}
+	Se recibio:  {1,2,3,4,5,6,7,8,9,0}
+----------------------------------------------
+Prueba mover nodo de listas 10 -> OK
+----------------------------------------------
+Prueba mover nodo de listas 11 -> OK
+----------------------------------------------
+Prueba mover nodo de listas 12 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaMoverNodo                                    HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+PRUEBAS FUNCIONES 
+PRUEBAS FUNCIONES                              RESULTADO LISTAS => CORRECTAS:  9 INCORRECTAS:  3
+PRUEBAS FUNCIONES 

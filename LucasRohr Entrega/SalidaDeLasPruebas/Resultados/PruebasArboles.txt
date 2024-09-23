@@ -1,0 +1,634 @@
+----------------------------------------------
+Prueba Altura de un arbol binario 1 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 2 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 3 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 4 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 5 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 6 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 7 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 8 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 9 -> OK
+----------------------------------------------
+Prueba Altura de un arbol binario 10 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaAltura                                       PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Son iguales 1 -> OK
+----------------------------------------------
+Prueba Son iguales 2 -> OK
+----------------------------------------------
+Prueba Son iguales 3 -> OK
+----------------------------------------------
+Prueba Son iguales 4 -> OK
+----------------------------------------------
+Prueba Son iguales 5 -> OK
+----------------------------------------------
+Prueba Son iguales 6 -> OK
+----------------------------------------------
+Prueba Son iguales 7 -> OK
+----------------------------------------------
+Prueba Son iguales 8 -> OK
+----------------------------------------------
+Prueba Son iguales 9 -> OK
+----------------------------------------------
+Prueba Son iguales 10 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaSonIguales                                   PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba existe camino con suma 1 -> OK
+----------------------------------------------
+Prueba existe camino con suma 2 -> OK
+----------------------------------------------
+Prueba existe camino con suma 3 -> OK
+----------------------------------------------
+Prueba existe camino con suma 4 -> OK
+----------------------------------------------
+Prueba existe camino con suma 5 -> OK
+----------------------------------------------
+Prueba existe camino con suma 6 -> OK
+----------------------------------------------
+Prueba existe camino con suma 7 -> OK
+----------------------------------------------
+Prueba existe camino con suma 8 -> OK
+----------------------------------------------
+Prueba existe camino con suma 9 -> OK
+----------------------------------------------
+Prueba existe camino con suma 10 -> OK
+----------------------------------------------
+Prueba existe camino con suma 11 -> OK
+----------------------------------------------
+Prueba existe camino con suma 12 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaExisteCaminoConSuma                          PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba es arbol balanceado 1 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 2 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 3 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 4 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 5 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 6 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 7 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 8 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 9 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 10 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 11 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 12 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 13 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 14 -> OK
+----------------------------------------------
+Prueba es arbol balanceado 15 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaEsArbolBalanceado                            PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba en nivel 1 -> OK
+----------------------------------------------
+Prueba en nivel 2 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 1
+	Se esperaba: (1)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 3 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 2
+	Se esperaba: (2,3)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 4 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 3
+	Se esperaba: (4,5,6,7)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 5 -> OK
+----------------------------------------------
+Prueba en nivel 6 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,5,6,#,7,8,9,#,10,#,#,11,#,#,#,12,13,#,#,14,#,#,15}, 1
+	Se esperaba: (1)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 7 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,5,6,#,7,8,9,#,10,#,#,11,#,#,#,12,13,#,#,14,#,#,15}, 2
+	Se esperaba: (2,3)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 8 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,5,6,#,7,8,9,#,10,#,#,11,#,#,#,12,13,#,#,14,#,#,15}, 3
+	Se esperaba: (4,5,6)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 9 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,5,6,#,7,8,9,#,10,#,#,11,#,#,#,12,13,#,#,14,#,#,15}, 4
+	Se esperaba: (7,8,9,10)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 10 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,5,6,#,7,8,9,#,10,#,#,11,#,#,#,12,13,#,#,14,#,#,15}, 5
+	Se esperaba: (11,12,13)
+	Se recibio:  ()
+----------------------------------------------
+Prueba en nivel 11 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,5,6,#,7,8,9,#,10,#,#,11,#,#,#,12,13,#,#,14,#,#,15}, 6
+	Se esperaba: (14,15)
+	Se recibio:  ()
+----------------------------------------------
+PRUEBAS FUNCION PruebaEnNivel                                      HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 1 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 1, 1
+	Se esperaba: 1
+	Se recibio:  0
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 2 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 1, 2
+	Se esperaba: 3
+	Se recibio:  0
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 3 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 1, 4
+	Se esperaba: 7
+	Se recibio:  0
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 4 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 2, 4
+	Se esperaba: 6
+	Se recibio:  0
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 5 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 1, 6
+	Se esperaba: 9
+	Se recibio:  0
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 6 -> OK
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 7 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 2, 3
+	Se esperaba: 5
+	Se recibio:  0
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 8 -> OK
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 9 -> OK
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 10 -> OK
+----------------------------------------------
+Prueba cantidad de nodos entre niveles 11 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,#,#,#,5}, 3, 3
+	Se esperaba: 1
+	Se recibio:  0
+----------------------------------------------
+PRUEBAS FUNCION PruebaCantNodosEntreNiveles                        HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba camino 1 -> OK
+----------------------------------------------
+Prueba camino 2 -> OK
+----------------------------------------------
+Prueba camino 3 -> OK
+----------------------------------------------
+Prueba camino 4 -> OK
+----------------------------------------------
+Prueba camino 5 -> OK
+----------------------------------------------
+Prueba camino 6 -> OK
+----------------------------------------------
+Prueba camino 7 -> OK
+----------------------------------------------
+Prueba camino 8 -> OK
+----------------------------------------------
+Prueba camino 9 -> OK
+----------------------------------------------
+Prueba camino 10 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaCamino                                       PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Invertir hasta k 1 -> OK
+----------------------------------------------
+Prueba Invertir hasta k 2 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3}, 10
+	Se esperaba: {1,3,2}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 3 -> OK
+----------------------------------------------
+Prueba Invertir hasta k 4 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,4,5,6,7}, 1
+	Se esperaba: {1}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 5 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,4,5,6,7}, 2
+	Se esperaba: {1,3,2}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 6 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,4,5,6,7}, 3
+	Se esperaba: {1,3,2,7,6,5,4}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 7 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 1
+	Se esperaba: {1}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 8 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 2
+	Se esperaba: {1,3,2}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 9 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 3
+	Se esperaba: {1,3,2,6,5,4}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 10 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 4
+	Se esperaba: {1,3,2,6,5,4,#,8,7}
+	Se recibio:  {}
+----------------------------------------------
+Prueba Invertir hasta k 11 -> ERROR salida incorrecta 
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 5
+	Se esperaba: {1,3,2,6,5,4,#,8,7,#,#,#,#,9}
+	Se recibio:  {}
+----------------------------------------------
+PRUEBAS FUNCION PruebaInvertirHastak                               HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba borrar nodo raiz 1 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 2 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 3 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 4 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 5 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 6 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 7 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 8 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 9 -> OK
+----------------------------------------------
+Prueba borrar nodo raiz 10 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaBorrarNodoRaiz                               PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba suma equivalente a n en ABB 1 -> ERROR salida incorrecta
+	Parametros de entrada: {3,1,4,0,2}, 7
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 2 -> OK
+----------------------------------------------
+Prueba suma equivalente a n en ABB 3 -> OK
+----------------------------------------------
+Prueba suma equivalente a n en ABB 4 -> OK
+----------------------------------------------
+Prueba suma equivalente a n en ABB 5 -> OK
+----------------------------------------------
+Prueba suma equivalente a n en ABB 6 -> ERROR salida incorrecta
+	Parametros de entrada: {2,#,4}, 6
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 7 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,8,2,4,7,10}, 10
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 8 -> OK
+----------------------------------------------
+Prueba suma equivalente a n en ABB 9 -> OK
+----------------------------------------------
+Prueba suma equivalente a n en ABB 10 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,8,2,4,7,10}, 18
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 11 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,8,2,4,7,10}, 12
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 12 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,8,2,4,7,10,1,#,#,#,6,#,#,20}, 30
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 13 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,8,2,4,7,10,1,#,#,#,6,#,#,20}, 21
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 14 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,8,2,4,7,10,1,#,#,#,6,#,#,20}, 23
+	Se esperaba: true
+	Se recibio:  false
+----------------------------------------------
+Prueba suma equivalente a n en ABB 15 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaSumaABB                                      HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba sucesor de ABB 1 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 2 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 3 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 4 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 5 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 6 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 7 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 8 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 9 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 10 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 11 -> OK
+----------------------------------------------
+Prueba sucesor de ABB 12 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaSucesorABB                                   PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba nivel con mas nodos 1 -> OK
+----------------------------------------------
+Prueba nivel con mas nodos 2 -> ERROR salida incorrecta
+	Parametros de entrada: {1}, 1
+	Se esperaba: 1
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 3 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 1
+	Se esperaba: 1
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 4 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 2
+	Se esperaba: 2
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 5 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 3
+	Se esperaba: 3
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 6 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,4,5,6,7}, 5
+	Se esperaba: 3
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 7 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 5
+	Se esperaba: 3
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 8 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,4,5,6,#,#,#,#,7,8,#,#,#,9}, 2
+	Se esperaba: 2
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 9 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,4,5,6,7,8,9,10,11,12,#,#,#,13}, 5
+	Se esperaba: 4
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 10 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,4,5,6,7,8,9,10,11,12,#,#,#,13}, 3
+	Se esperaba: 3
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 11 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,#,4,6}, 3
+	Se esperaba: 2
+	Se recibio:  0
+----------------------------------------------
+Prueba nivel con mas nodos 12 -> ERROR salida incorrecta
+	Parametros de entrada: {1,2,3,#,#,4,6,5,11}, 3
+	Se esperaba: 2
+	Se recibio:  0
+----------------------------------------------
+PRUEBAS FUNCION PruebaNivelMasNodos                                HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba BorrarPares nro 1 -> ERROR salida incorrecta
+	Parametros de entrada: {5,3,7,2,4,6,8}
+	Se esperaba: {5,3,7}
+	Se recibio:  {5,3,7,2,4,6,8}
+----------------------------------------------
+Prueba BorrarPares nro 2 -> OK
+----------------------------------------------
+Prueba BorrarPares nro 3 -> OK
+----------------------------------------------
+Prueba BorrarPares nro 4 -> OK
+----------------------------------------------
+Prueba BorrarPares nro 5 -> ERROR salida incorrecta
+	Parametros de entrada: {4,2,6}
+	Se esperaba: {}
+	Se recibio:  {4,2,6}
+----------------------------------------------
+Prueba BorrarPares nro 6 -> ERROR salida incorrecta
+	Parametros de entrada: {4}
+	Se esperaba: {}
+	Se recibio:  {4}
+----------------------------------------------
+Prueba BorrarPares nro 7 -> ERROR salida incorrecta
+	Parametros de entrada: {3,2,9}
+	Se esperaba: {3,#,9}
+	Se recibio:  {3,2,9}
+----------------------------------------------
+Prueba BorrarPares nro 8 -> ERROR salida incorrecta
+	Parametros de entrada: {7,5,8,4,6}
+	Se esperaba: {5,#,7}
+	Se recibio:  {7,5,8,4,6}
+----------------------------------------------
+Prueba BorrarPares nro 9 -> ERROR salida incorrecta
+	Parametros de entrada: {8,6,10,#,#,9}
+	Se esperaba: {9}
+	Se recibio:  {8,6,10,#,#,9,#}
+----------------------------------------------
+Prueba BorrarPares nro 10 -> ERROR salida incorrecta
+	Parametros de entrada: {17,10,20,6,14,18,22,4,8,12,16}
+	Se esperaba: {17}
+	Se recibio:  {17,10,20,6,14,18,22,4,8,12,16}
+----------------------------------------------
+PRUEBAS FUNCION PruebaBorrarPares                                  HAY PRUEBAS INCORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba AlturaAG Nro 1 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 2 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 3 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 4 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 5 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 6 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 7 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 8 -> OK
+----------------------------------------------
+Prueba AlturaAG Nro 9 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaAlturaAG                                     PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Suma por niveles AG numero: 1 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 2 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 3 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 4 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 5 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 6 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 7 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 8 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 9 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 10 -> OK
+----------------------------------------------
+Prueba Suma por niveles AG numero: 11 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaSumaPorNiveles                               PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Prefijo AG numero: 1 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 2 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 3 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 4 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 5 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 6 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 7 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 8 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 9 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 10 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 11 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 12 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 13 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 14 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 15 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 16 -> OK
+----------------------------------------------
+Prueba Prefijo AG numero: 17 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaEsPrefijo                                    PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Camino AG 1 -> OK
+----------------------------------------------
+Prueba Camino AG 2 -> OK
+----------------------------------------------
+Prueba Camino AG 3 -> OK
+----------------------------------------------
+Prueba Camino AG 4 -> OK
+----------------------------------------------
+Prueba Camino AG 5 -> OK
+----------------------------------------------
+Prueba Camino AG 6 -> OK
+----------------------------------------------
+Prueba Camino AG 7 -> OK
+----------------------------------------------
+Prueba Camino AG 8 -> OK
+----------------------------------------------
+Prueba Camino AG 9 -> OK
+----------------------------------------------
+Prueba Camino AG 10 -> OK
+----------------------------------------------
+Prueba Camino AG 11 -> OK
+----------------------------------------------
+Prueba Camino AG 12 -> OK
+----------------------------------------------
+Prueba Camino AG 13 -> OK
+----------------------------------------------
+Prueba Camino AG 14 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaCaminoAG                                     PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+Prueba Nivel con mas Nodos 1 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 2 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 3 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 4 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 5 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 6 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 7 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 8 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 9 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 10 -> OK
+----------------------------------------------
+Prueba Nivel con mas Nodos 11 -> OK
+----------------------------------------------
+PRUEBAS FUNCION PruebaNivelConMasNodosAG                           PRUEBAS CORRECTAS
+----------------------------------------------
+----------------------------------------------
+----------------------------------------------
+PRUEBAS FUNCIONES 
+PRUEBAS FUNCIONES                             RESULTADO ARBOLES => CORRECTAS: 12 INCORRECTAS:  6
+PRUEBAS FUNCIONES 

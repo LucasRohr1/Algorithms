@@ -1,0 +1,13 @@
+# Ignorar la carpeta de configuración de Visual Studio
+.vs/
+
+# Ignorar archivos temporales de Visual Studio
+*.user
+*.suo
+*.cache
+*.pdb
+*.obj
+
+# Ignorar las carpetas de bin y obj si estás usando .NET
+bin/
+obj/
